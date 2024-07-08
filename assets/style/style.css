@@ -118,18 +118,18 @@ nav .menu ul li a {
 
 /*----about section----*/
 .about {
-  margin: 120px 180px;
+  margin: 120px 160px;
 }
 .about-container {
   background-color: var(--bg-color);
 }
 .about-content {
-  padding: 80px 100px;
+  padding: 80px;
 }
 .about-items {
   background-color: var(--white);
   border: 1px solid black;
-  padding: 0 10px;
+  padding: 20px;
 }
 .about-items .title {
   color: var(--dark-01);
